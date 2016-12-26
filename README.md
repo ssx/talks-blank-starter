@@ -1,0 +1,1 @@
+A blank starter for talks.
